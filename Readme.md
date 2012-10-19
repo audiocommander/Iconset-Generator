@@ -7,17 +7,16 @@ This is an automator workflow that creates the new .iconset format for you.
 
 ### Output: ###
 - Folder "myIcon.iconset" on your desktop containting 10 icons:
-
-icon_16x16.png
-icon_16x16@2x.png
-icon_32x32.png
-icon_32x32@2x.png
-icon_128x128.png
-icon_128x128@2x.png
-icon_256x256.png
-icon_256x256@2x.png
-icon_512x512.png
-icon_512x512@2x.png		(your copied, unchanged original image)
+  - icon_16x16.png
+  - icon_16x16@2x.png
+  - icon_32x32.png
+  - icon_32x32@2x.png
+  - icon_128x128.png
+  - icon_128x128@2x.png
+  - icon_256x256.png
+  - icon_256x256@2x.png
+  - icon_512x512.png
+  - icon_512x512@2x.png		(your copied, unchanged original image)
 
 
 ### License: ###
